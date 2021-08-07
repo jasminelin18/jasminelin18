@@ -23,7 +23,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### GitHub Stats
-![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminelin18&hide=stars,issues&show_icons=true&theme=radical)
+![Jasmine's GitHub stats](https://github-readme-stats.jasminelin18.vercel.app/api?username=jasminelin18&hide=stars,issues&show_icons=true&theme=radical)
+<!-- 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{jasminelin18}/count.svg"  :: Visitor's Count" /></p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminelin18)](https://github.com/anuraghazra/github-readme-stats) -->
 
