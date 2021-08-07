@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### GitHub Stats
-![Jasmine's GitHub stats](https://github-readme-stats.jasminelin18.vercel.app/api?username=jasminelin18&hide=stars,issues&show_icons=true&theme=radical)
+![Jasmine's GitHub stats](https://github-readme-stats-theta-steel.vercel.app/api?username=jasminelin18&hide=stars,issues&show_icons=true&theme=radical)
 <!-- 
 <h4 align="center">Visitor's count :eyes:</h4>
 
