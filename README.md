@@ -31,5 +31,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminelin18)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [linkedin]: https://www.linkedin.com/in/jasminelin18/
 
