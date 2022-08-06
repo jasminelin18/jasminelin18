@@ -1,6 +1,5 @@
 ## Hi there, I'm Jasmine 👋
 
-- 🔭 I’m currently working on [Spyglass](https://github.com/mvspride/SpyGlass): The Financial Goal Planner (capstone project for CodeDifferently) 
 - 🌱 I’m currently learning Spring Boot and React
 - 👯 I’m looking to collaborate and learn
 - 😄 Pronouns: she/her
